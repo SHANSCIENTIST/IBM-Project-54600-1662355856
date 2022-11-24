@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHANSCIENTIST
 - 👀 I’m interested in signal processing
 - 🌱 I’m currently learning B.E.,ECE
-- 💞️ I’m looking to collaborate on CLASSIFICATION OF ARRYHTHMIA BY USING 2D SPECTRAL IMAGE REPRESENTATION. 
+- 💞️ I’m looking to collaborate on CLASSIFICATION OF ARRYHTHMIA BY USING 2D ECG SPECTRAL IMAGE REPRESENTATION. 
 - 📫 How to reach me 6374832166
 
 <!---
